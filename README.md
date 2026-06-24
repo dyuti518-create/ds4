@@ -1256,4 +1256,4 @@ first answer:
   alternatives at each step, which helps separate sampling choices from
   logit/model issues.
 - `ds4-server --trace` writes the rendered prompts, cache decisions, generated
-  text, and tool-parser events for a whole agent session
+  text, and tool-parser events for a whole agent session.
